@@ -2,6 +2,12 @@
 
 ## Day 1
 
+### 6:00 PM
+
+	- Registration
+
+## Day 2
+
 ### 8:00 AM
 
 	1. Get Shipping with Docker
@@ -13,7 +19,7 @@
 	1. Break it Before you Buy it: Hacking and Fixing Web Applications
 	2. Front-End Style Guides from 0 to 60
 
-## Day 2
+## Day 3
 
 ### 8:00 AM
 
@@ -32,7 +38,7 @@
 
 	- Lightning Talks
 
-## Day 3
+## Day 4
 
 ### 8:00 AM
 
@@ -83,7 +89,7 @@
 	2. Regular Expressions (now you have two problems)
 	3. Async JavaScript at Netflix
 
-## Day 4
+## Day 5
 
 ### 8:30 AM
 
